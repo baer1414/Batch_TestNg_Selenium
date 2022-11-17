@@ -1,0 +1,12 @@
+TestNG
+*Unit test yapılan bir framwork
+*Testlerimizi toplu veya opsiyenel test etmemize yardımcı olur
+*Assertions yapmamıza imkan verir verify yapmamızı sağlar
+raporlama yapmamıza imkan verir
+*Bir class icerisinde birden fazla test yapabiliriz
+
+Assertions
+*assertTrue
+*assertFalse
+*assetEquals
+
